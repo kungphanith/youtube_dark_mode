@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "name": "Youtube Dark Mode",
+  "version": "0.1.0",
+  "description": "Extension for Change Youtube to dark mode! easy!!",
+  "content_scripts": [{
+    "css": ["mystyle.css"],
+    "js": ["content.js"],
+    "matches": ["https://www.youtube.com/*"]
+  }]
+}
