@@ -13,7 +13,7 @@ body {
 }
 
 #feed{
-	background: #424242 !important;
+	background: #151515 !important;
 
 }
 #feed a {
@@ -21,7 +21,7 @@ body {
 	background: none !important;
 }
 .appbar-content-hidable{
-	background: #383838;
+	background: #151515;
 }
 #appbar-nav .yt-uix-button.yt-uix-button-epic-nav-item{
 	color: #fff !important;
@@ -56,7 +56,7 @@ a.yt-uix-button-epic-nav-item.selected, a.yt-uix-button-epic-nav-item.yt-uix-but
 }
 
 .yt-card{
-	background: #424242 !important;
+	background: #151515 !important;
 }
 
 u, ul, var{
@@ -159,6 +159,13 @@ body #footer-container{
 .filter .filter-text{
 	color: #bbb !important;
 }
-div span {
-	color: #fff ;
+
+.branded-page-module-title{
+	color: #fff !important;
+}
+.yt-uix-menu-top-level-button-container, .yt-uix-menu-top-level-button{
+	background: #c1080e !important;
+}
+.upload-widget{
+	background: #fff !important;
 }
