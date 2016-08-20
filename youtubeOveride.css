@@ -159,6 +159,6 @@ body #footer-container{
 .filter .filter-text{
 	color: #bbb !important;
 }
-div span {
-	color: #fff ;
+#appbar-guide-menu, .guide-flyout{
+	background: #000 !important;
 }
