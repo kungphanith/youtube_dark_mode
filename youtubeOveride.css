@@ -42,7 +42,7 @@ a.yt-uix-button-epic-nav-item.selected, a.yt-uix-button-epic-nav-item.yt-uix-but
 	color: #ffb1b1 !important;
 }
 #yt-masthead-container{
-	border-bottom: 1px solid #630003 !important; 
+	border-bottom: 1px solid #630003 !important;
 }
 #masthead-appbar{
 	border-bottom: 1px solid #b50000 !important;
@@ -142,7 +142,7 @@ body #footer-container{
 	color: #FFF !important;
 }
 .yt-lockup-playlist-item a{
-	color: #fff !important; 
+	color: #fff !important;
 }
 .num-results{
 	color: #fff11a !important;
@@ -161,4 +161,20 @@ body #footer-container{
 }
 #appbar-guide-menu, .guide-flyout{
 	background: #000 !important;
+}
+
+.yt-ui-ellipsis{
+      background: none !important;
+}
+a{
+  color: #eee !important;
+}
+#pl-header .pl-header-title{
+  color: #f8f8f8 !important ;
+}
+.branded-page-module-title{
+    color: #fff !important;
+}
+span{
+  color: #ddd;
 }
