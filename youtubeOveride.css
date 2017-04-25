@@ -178,3 +178,45 @@ a{
 span{
   color: #ddd;
 }
+.gssb_c *{
+  color: #444;
+}
+.gssb_a, .gssb_a td{
+  line-height: 24px;
+}
+.yt-uix-menu-content{
+  background: #444;
+}
+.yt-uix-menu-content * {
+  color: #555;
+}
+.yt-uix-button *{
+  color: #555;
+}
+.yt-notes li{
+  color: #c7464a;
+}
+.yt-picker-content *{
+  color: #555;
+}
+.yt-uix-button-content{
+  color: #fff;
+}
+.yt-uix-tooltip, .yt-uix-tooltip *{
+  color: #555;
+}
+.start-upload-button, .start-upload-button *{
+  color: #fff;
+}
+.upload-option-text, .upload-option-text *{
+  color: #fff !important;
+}
+button .yt-uix-button-content{
+  color: #555;
+}
+.upload-option-button.yt-uix-button-default *{
+  color: #555 !important;
+}
+.upload-informational-footer{
+  color: #eee !important;
+}
